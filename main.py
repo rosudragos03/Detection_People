@@ -55,4 +55,5 @@ with open('detectie.log', 'a') as file:
 cv2.imshow("Output", img)
 cv2.waitKey(0)
 # Se afiseaza imaginea dupa identificarea persoanelor
-# Deschide fisierul de log in modul adaugare
+
+# Bibliografie: https://www.youtube.com/watch?v=HXDD7-EnGBY&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
